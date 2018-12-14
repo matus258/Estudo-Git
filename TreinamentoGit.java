@@ -9,6 +9,7 @@ public class TreinamentoGit {
     int j;
     double k;
     String ma;
+    int re;
 
   }
 }
