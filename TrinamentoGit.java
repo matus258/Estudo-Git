@@ -4,5 +4,6 @@ public class TreinamentoGit {
     System.out.println("Modifiquei o Arquivo");
     system.out.print("Modificado depois do git add");
     system.out.print("Alterando para o git diff");
+    int v;
   }
 }
