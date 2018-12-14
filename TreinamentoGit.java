@@ -8,7 +8,7 @@ public class TreinamentoGit {
     int v;
     int j;
     double k;
-    String matus;
+    String ma;
 
   }
 }
