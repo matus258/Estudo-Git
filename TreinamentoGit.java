@@ -7,6 +7,8 @@ public class TreinamentoGit {
     System.out.print("Alterando para o git diff");
     int v;
     int j;
+    double k;
+    String ma;
 
   }
 }
