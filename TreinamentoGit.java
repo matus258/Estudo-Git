@@ -6,6 +6,7 @@ public class TreinamentoGit {
     System.out.print("Modificado depois do git add");
     System.out.print("Alterando para o git diff");
     int v;
+    double test;
     String matus;
     int jas;
     double kam;
