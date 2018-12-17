@@ -11,6 +11,7 @@ public class TreinamentoGit {
     double kam;
     int re;
     int ta;
+    double te;
 
   }
 }
